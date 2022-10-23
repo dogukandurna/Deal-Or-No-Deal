@@ -1,0 +1,11 @@
+C:\Users\Doğukan Durna\Desktop\YAZILIM\C++\VarmısınYokmusun\bin\Debug\VarmısınYokmusun.exe.config
+C:\Users\Doğukan Durna\Desktop\YAZILIM\C++\VarmısınYokmusun\bin\Debug\VarmısınYokmusun.exe
+C:\Users\Doğukan Durna\Desktop\YAZILIM\C++\VarmısınYokmusun\bin\Debug\VarmısınYokmusun.pdb
+C:\Users\Doğukan Durna\Desktop\YAZILIM\C++\VarmısınYokmusun\obj\Debug\VarmısınYokmusun.csproj.AssemblyReference.cache
+C:\Users\Doğukan Durna\Desktop\YAZILIM\C++\VarmısınYokmusun\obj\Debug\VarmısınYokmusun.csproj.SuggestedBindingRedirects.cache
+C:\Users\Doğukan Durna\Desktop\YAZILIM\C++\VarmısınYokmusun\obj\Debug\VarmısınYokmusun.Form1.resources
+C:\Users\Doğukan Durna\Desktop\YAZILIM\C++\VarmısınYokmusun\obj\Debug\VarmısınYokmusun.Properties.Resources.resources
+C:\Users\Doğukan Durna\Desktop\YAZILIM\C++\VarmısınYokmusun\obj\Debug\VarmısınYokmusun.csproj.GenerateResource.cache
+C:\Users\Doğukan Durna\Desktop\YAZILIM\C++\VarmısınYokmusun\obj\Debug\VarmısınYokmusun.csproj.CoreCompileInputs.cache
+C:\Users\Doğukan Durna\Desktop\YAZILIM\C++\VarmısınYokmusun\obj\Debug\VarmısınYokmusun.exe
+C:\Users\Doğukan Durna\Desktop\YAZILIM\C++\VarmısınYokmusun\obj\Debug\VarmısınYokmusun.pdb
